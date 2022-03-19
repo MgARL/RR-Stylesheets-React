@@ -1,5 +1,11 @@
 .App {
   text-align: center;
 }
+a{
+  color: red;
+}
+a:hover {
+  color: aqua;
+}
 
 
